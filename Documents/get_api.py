@@ -6,7 +6,7 @@ import requests
 
 
 def get_api():
-    url = 'http://hack1.dstn.club/dataspider/trigger/path'
+    url = 'URL'
 
     r = requests.get(url, {})
 
